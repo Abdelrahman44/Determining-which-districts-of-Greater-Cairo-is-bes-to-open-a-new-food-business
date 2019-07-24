@@ -15,4 +15,4 @@ The goal of this project is to analyze the different districts of Greater Cairo 
 
 
 output:
-![alt text] (https://github.com/Abdelrahman44/Determining-which-districts-of-Greater-Cairo-is-bes-to-open-a-new-food-business/blob/master/output.png)
+![alt text](https://github.com/Abdelrahman44/Determining-which-districts-of-Greater-Cairo-is-bes-to-open-a-new-food-business/blob/master/output.png)
